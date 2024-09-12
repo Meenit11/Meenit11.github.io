@@ -1,3 +1,3 @@
-# MeenitDoshi12.github.io
+# MeenitDoshi11.github.io
 
 My personal website
